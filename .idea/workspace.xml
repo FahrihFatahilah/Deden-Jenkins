@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59c787ec-ae2f-4868-9044-0397a8f60ed7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yaml" afterDir="false" />
-    </list>
+    <list default="true" id="59c787ec-ae2f-4868-9044-0397a8f60ed7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1669791144966</updated>
       <workItem from="1669791146689" duration="1683000" />
-      <workItem from="1669793734321" duration="16000" />
+      <workItem from="1669793734321" duration="396000" />
     </task>
     <servers />
   </component>
